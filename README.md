@@ -2,7 +2,7 @@
 
 <h3 align="left">QA / Cyber Security / AppSec 👨‍💻 </h3>
 
-<h2 align="left"> Pink Hat 👩🏽‍💻🎀 </h2>
+<h3 align="left"> Pink Hat 👒💖🏴‍☠️ </h3>
 
 - :green_book: I’m currently learning : **Laravel** / **Pentest in web applications** / **Cypress** / **AppSec** 
 
