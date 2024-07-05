@@ -1,8 +1,10 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sarang <img src=https://media.giphy.com/media/SY8asU9xWlmgFolmSs/giphy.gif width="29px"></h1>
 
-<h3 align="left">QA & Cyber Security 👨‍💻</h3>
+<h3 align="left">QA / Cyber Security / AppSec 👨‍💻 </h3>
 
-- :green_book: I’m currently learning : **Pentest in web applications** / **Cypress**
+<h2 align="left"> Pink Hat 👩🏽‍💻🎀 </h2>
+
+- :green_book: I’m currently learning : **Laravel** / **Pentest in web applications** / **Cypress** / **AppSec** 
 
 - ⚡ Fun fact: **BTS⁷ ARMY** <img src=https://media.giphy.com/media/PlZXrWlucZXYducnUv/giphy.gif width="15px">
 
